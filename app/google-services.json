@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198851106897",
+    "project_id": "dietconcierge-1-0",
+    "storage_bucket": "dietconcierge-1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198851106897:android:14d5c40009f04e31bfc070",
+        "android_client_info": {
+          "package_name": "std.srihar.dietpreparer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198851106897-ndvig00gc50td3f3svkj3u156i3r1c0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCBrnuBNn8sYAIKkg0KISItigMWzJ3fJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198851106897-ndvig00gc50td3f3svkj3u156i3r1c0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EmailInputStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">#eee</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:width">260dp</item>
+        <item name="android:textColor">?attr/colorAccent</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">4</item>
+        <item name="android:shadowColor">#dfd9d9</item>
+    </style>
+
+
+</resources>

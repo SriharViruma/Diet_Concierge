@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DietPreparer</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="diet_concierge">Diet Concierge</string>
+    <string-array name="goal_options">
+        <item>Weight Loss</item>
+        <item>Weight Gain</item>
+    </string-array>
+</resources>
